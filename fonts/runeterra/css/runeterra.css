@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Beaufort for LOL Bold';
+  src: url('https://lively-kernel.org/lively4/ubg-assets/fonts/runeterra/fonts/BeaufortforLOLJa-Bold.ttf');
+/*   src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg'); */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Beaufort for LOL Regular';
+  src: url('https://lively-kernel.org/lively4/ubg-assets/fonts/runeterra/fonts/BeaufortforLOLJa-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Univers 59 Ultra Condensed';
+  src: url('https://lively-kernel.org/lively4/ubg-assets/fonts/runeterra/fonts/Univers 59 Ultra Condensed.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Univers 55';
+  src: url('https://lively-kernel.org/lively4/ubg-assets/fonts/runeterra/fonts/univers_55.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.beaufort-for-lol-bold {
+  font-family: "Beaufort for LOL Bold";
+}
+
+.beaufort-for-lol-regular {
+  font-family: "Beaufort for LOL Regular";
+}
+
+.univers-59-ultra-condensed {
+  font-family: "Univers 59 Ultra Condensed";
+}
+
+.univers-55 {
+  font-family: "Univers 55";
+}
