@@ -14,15 +14,15 @@
 }
 
 @font-face {
-  font-family: 'Univers 59 Ultra Condensed';
-  src: url('https://lively-kernel.org/lively4/ubg-assets/fonts/runeterra/fonts/Univers 59 Ultra Condensed.ttf');
+  font-family: 'Univers 55';
+  src: url('https://lively-kernel.org/lively4/ubg-assets/fonts/runeterra/fonts/univers_55.ttf');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Univers 55';
-  src: url('https://lively-kernel.org/lively4/ubg-assets/fonts/runeterra/fonts/univers_55.ttf');
+  font-family: 'Univers 45 Light Italic';
+  src: url('https://lively-kernel.org/lively4/ubg-assets/fonts/runeterra/fonts/univers-45-light-italic.ttf');
   font-weight: normal;
   font-style: normal;
 }
@@ -35,10 +35,10 @@
   font-family: "Beaufort for LOL Regular";
 }
 
-.univers-59-ultra-condensed {
-  font-family: "Univers 59 Ultra Condensed";
-}
-
 .univers-55 {
   font-family: "Univers 55";
+}
+
+.univers-45-light-italic {
+  font-family: "Univers 45 Light Italic";
 }
